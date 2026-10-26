@@ -65,6 +65,9 @@ python app.py
 
 ### 5. Open in your browser
 Go to `http://127.0.0.1:5000`, upload a short traffic video, and click **Detect and Count Vehicles**. The first run can take longer while the model downloads.
+<img width="1721" height="847" alt="Screenshot 2026-10-26 200209" src="https://github.com/user-attachments/assets/fc94e4ef-5bc5-446a-b7dd-24f4ef635722" />
+
+
 
 ## How It Works
 1. Upload a traffic video.
